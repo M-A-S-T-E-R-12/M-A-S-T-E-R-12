@@ -4,3 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=M-A-S-T-E-R-12&label=Profile%20views" alt="M-A-S-T-E-R-12" style="width: 150px;" />
 </p>
 </br>
+</a>
+  <a href="https://wa.me/917012984396" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
